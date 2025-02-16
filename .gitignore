@@ -1,0 +1,12 @@
+# 운영체제
+.DS_Store
+Thumbs.db
+
+# IDE/Editor 설정
+.vscode/
+.idea/
+*.code-workspace
+
+
+
+
